@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "bold-sunset-fbb7",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "a6ae0d81-6be3-4117-ae1b-8d459e0d0f3c",
+      "database_name": "delicate-boat-ee78-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
